@@ -1,4 +1,4 @@
-# Wasserstoff AI Intern Task - Document Chatbot
+# RAG Based Document Chatbot
 
 This repository contains a document-based chatbot built using FastAPI, Qdrant, HuggingFace, and Streamlit.Backend deployed in HuggingFace and Frontend in Streamlit Cloud. It was developed as part of an internship assignment to handle 75+ uploaded documents and provide the following functionality:
 
